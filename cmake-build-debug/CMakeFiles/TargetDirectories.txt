@@ -1,0 +1,3 @@
+/Users/kofil/CLionProjects/codeWithMosh/cmake-build-debug/CMakeFiles/codeWithMosh.dir
+/Users/kofil/CLionProjects/codeWithMosh/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kofil/CLionProjects/codeWithMosh/cmake-build-debug/CMakeFiles/rebuild_cache.dir
